@@ -9,12 +9,12 @@
 Summary:	UML Modeler
 Summary(pl.UTF-8):	Modeler UML
 Name:		kde4-%{orgname}
-Version:	4.14.0
+Version:	4.14.3
 Release:	1
 License:	GPL
 Group:		X11/Development/Tools
 Source0:	http://download.kde.org/%{_state}/%{version}/src/%{orgname}-%{version}.tar.xz
-# Source0-md5:	7d244626ea18418ef28febb07a6b56fe
+# Source0-md5:	15926874ff8ca38e58b853a7731d151a
 URL:		http://www.kde.org/
 BuildRequires:	QtNetwork-devel >= %{qtver}
 BuildRequires:	QtScriptTools-devel >= %{qtver}
