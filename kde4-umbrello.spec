@@ -25,7 +25,7 @@ BuildRequires:	cmake >= 2.8.0
 BuildRequires:	db-devel
 BuildRequires:	docbook-dtd42-xml
 BuildRequires:	docbook-style-xsl
-BuildRequires:	gettext-devel
+BuildRequires:	gettext-tools
 BuildRequires:	hunspell-devel
 BuildRequires:	kde4-kdebase-devel >= %{version}
 BuildRequires:	kde4-kdepimlibs-devel >= %{version}
